@@ -11,6 +11,16 @@
     ● 수행 결과<br>
     ● 자체평가 의견<br>
 </tr>
+<h3>
+    :full_moon_with_face: 프로젝트 개요
+</h3>
+<tr>
+    ● 프로젝트: 예약 중계 플랫폼 "모두의 예약"
+    ● 선정사유: 전화 예약의 번거로움과 업소의 전체 스케줄을 확인하고 직접 선택할 수 있는 시스템의 필요성을 해결하기 위해 선정
+    ● 목표: 다양한 분야의 서비스를 아우르느 허브 플랫폼 제작
+    ● 기대효과: 예약서비스 이용의 편의성 향상 
+</tr>
+    
 <h2>
     :full_moon_with_face: skil
 </h2>
@@ -27,6 +37,7 @@
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<h2></h2>
 
 
 
