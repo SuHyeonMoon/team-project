@@ -68,11 +68,6 @@
     -후기가 작성된 리스트
     <img src="https://github.com/user-attachments/assets/d13f9bdf-d5ee-4fd9-afb1-494fcfc8efd7">
 </tr>
-<!-- 모달 -->
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-</div>
 
 <h3>
     :full_moon_with_face: 자체평가
