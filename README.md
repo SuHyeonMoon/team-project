@@ -1,8 +1,7 @@
 # 모두의 예약 플랫폼 📅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=170&section=header&text=RESERVATION&fontSize=40" />
-<div>
-    <a href="https://github.com/SuHyeonMoon/team-project/raw/main/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf" target="_blank">Download the presentation</a>
-</div>
+
+[Download the presentation](https://github.com/SuHyeonMoon/team-project/raw/main/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf)
 
 ## 목차 📚
 1. [프로젝트 개요](#프로젝트-개요)
@@ -56,15 +55,11 @@
 <img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6" alt="기능 이미지 3" />
 
 **주요 기능**:
-- CRUD 작업을 이용해 판매자의 서비스 관리, 등록
+- CRUD 작업을 이용해 판매자의 서비스 관리 및 등록
 - 코드의 효율성 및 유연성을 위해 공개/비공개 처리
 - 구매자가 이용 완료 후에만 후기 작성 가능
 
-<img  src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a"/>
 <img src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a" alt="후기 리스트" />
-
-**주요 기능**
--
 
 ---
 
@@ -75,3 +70,6 @@
 - 팀원들과의 소통이 원활하지 않았지만 Git 브랜치 전략을 도입하여 협업 개선
 - DB 스키마를 분리하여 각 요구 사항에 맞는 테이블 구조 설계 및 데이터 무결성 유지
 - 코드 스타일 통일 및 협업 프로세스 개선으로 프로젝트 진행에 기여
+
+---
+
