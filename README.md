@@ -1,7 +1,8 @@
 # 모두의 예약 플랫폼 📅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=170&section=header&text=RESERVATION&fontSize=40" />
 <div>
-    [Download the presentation](./presentation.pptx)
+    [Download the presentation](./모두의예약_양재하_김하겸_오규원_문수현_최종.pptx)
+    
 </div>
 
 ## 목차 📚
