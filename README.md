@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 1;
-      padding-top: 100px;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-    }
 
-    .modal-content {
-      margin: auto;
-      display: block;
-      width: 80%;
-      max-width: 700px;
-    }
-
-    .modal-content {
-      animation-name: zoom;
-      animation-duration: 0.6s;
-    }
-
-    @keyframes zoom {
-      from {transform: scale(0)}
-      to {transform: scale(1)}
-    }
-
-    .close {
-      position: absolute;
-      top: 15px;
-      right: 35px;
-      color: #fff;
-      font-size: 40px;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-
-    .close:hover,
-    .close:focus {
-      color: #bbb;
-      text-decoration: none;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=140&section=header&text=RESERVATION&fontSize=40" />
 </div>
@@ -127,30 +74,13 @@
   <img class="modal-content" id="img01">
 </div>
 
-<script>
-  var modal = document.getElementById("myModal");
-  var img = document.getElementById("myImg");
-  var modalImg = document.getElementById("img01");
-
-  img.onclick = function() {
-    modal.style.display = "block";
-    modalImg.src = this.src;
-  }
-
-  var span = document.getElementsByClassName("close")[0];
-  span.onclick = function() {
-    modal.style.display = "none";
-  }
-</script>
-
 <h3>
     :full_moon_with_face: 자체평가
 </h3>
 <tr>
     이번 프로젝트는 처음 맡은 개발 작업이었지만, 전체적인 애플리케이션 구조와 코드 흐름을 파악하는 데 많은 노력을 기울였습니다. 특히, CRUD 기능을 성공적으로 구현했으며, Ajax를 이용한 비동기 처리로 사용자 경험을 향상시키는 데 기여했습니다. 초반에 팀원들과의 소통이 원활하지 않아 프로젝트 진행 중 여러 번 의견차이가 발생했습니다. 또한, 팀원들이 각각 다른 방식으로 코드를 작성하다 보니, 프로젝트를 병합하는 과정에서 코드 충돌이 발생했습니다. 이는 코드 관리 방식의 문제에서 비롯된 것이었고, 코드 스타일을 통일하는 데에도 시간이 걸렸습니다. 프로젝트에서 댓글 기능을 구현할 때, 게시판 댓글과 이용후기 댓글의 요구 사항이 달랐음에도 불구하고 동일한 DB 구조로 접근하려다 보니 발생한 문제였습니다. 이를 해결하기 위해, 댓글 기능의 DB 스키마를 분리하여 각 요구 사항에 맞는 테이블 구조를 설계하였습니다. 이로 인해 데이터 무결성 유지가 수월 해졌고, 추가적인 기능 확장에도 유연하게 대응할 수 있었습니다. 프로젝트 병합 과정에서 발생한 코드 충돌 문제를 해결하기 위해 Git 브랜치 전략을 도입했습니다. 각 팀원이 별도의 브랜치에서 개발을 진행하고, Pull Request를 통해 코드 리뷰를 거친 후 병합하도록 하여 충돌을 최소화했습니다. 이를 통해 협업 과정이 더욱 효율적으로 이루어졌고, 코드 품질 또한 향상되었습니다. 이번 프로젝트는 전반적인 애플리케이션 개발 과정과 협업의 중요성을 다시 한번 깨닫게 해준 중요한 경험이 되었습니다.
 </tr>
-</body>
-</html>
+
 
 
 
