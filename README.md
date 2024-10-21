@@ -2,6 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=110&section=header&text=RESERVATION&fontSize=40" />
 </div>
 <h2>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     :full_moon_with_face: skil
 </h2>
 <div>
