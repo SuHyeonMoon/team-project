@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=110&section=header&text=RESERVATION&fontSize=40" />
 </div>
 <h2>
-    :full_moon_with_face:
+    :full_moon_with_face: skil
 </h2>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
