@@ -2,6 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=140&section=header&text=RESERVATION&fontSize=40" />
 </div>
 <h2>
+    :full_moon_with_face: 목차
+</h2>
+<tr>
+    ● 프로젝트 개요 <br>
+    ● 개발 환경 <br>
+    ● 팀 구성 및 역할<br>
+    ● 수행 결과<br>
+    ● 자체평가 의견<br>
+</tr>
+<h2>
     :full_moon_with_face: skil
 </h2>
 <div>
@@ -18,19 +28,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<h2>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
-    :full_moon_with_face: 목차
-</h2>
-<tr>
-    ● 프로젝트 개요 <br>
-    ● 개발 환경 <br>
-    ● 팀 구성 및 역할<br>
-    ● 수행 결과<br>
-    ● 자체평가 의견<br>
-</tr>
+
 
 
 
