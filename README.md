@@ -37,7 +37,16 @@
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<h2></h2>
+<h3>
+     :full_moon_with_face: 역할
+</h3>
+<tr>
+    ● 판매자가 제공하는 서비스 항목 관리
+    ● 이용후기
+</tr>
+<h3>
+![image](https://github.com/user-attachments/assets/fc8368bb-a1fc-444e-8a9e-6e5234ab9444)
+</h3>
 
 
 
