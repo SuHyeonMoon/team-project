@@ -1,7 +1,7 @@
 # 모두의 예약 플랫폼 📅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=170&section=header&text=RESERVATION&fontSize=40" />
 <div>
-    [Download the presentation](https://github.com/SuHyeonMoon/team-project/raw/main/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf)
+    <a href="https://github.com/SuHyeonMoon/team-project/raw/main/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf" target="_blank">Download the presentation</a>
 </div>
 
 ## 목차 📚
