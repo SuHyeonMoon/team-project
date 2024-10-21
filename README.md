@@ -1,7 +1,9 @@
 # 모두의 예약 플랫폼 📅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=170&section=header&text=RESERVATION&fontSize=40" />
 
+<div>
 <a href="https://github.com/SuHyeonMoon/team-project/blob/master/%EB%AA%A8%EB%91%90%EC%9D%98%EC%98%88%EC%95%BD_%EC%96%91%EC%9E%AC%ED%95%98_%EA%B9%80%ED%95%98%EA%B2%B8_%EC%98%A4%EA%B7%9C%EC%9B%90_%EB%AC%B8%EC%88%98%ED%98%84_%EC%B5%9C%EC%A2%85.pdf" />
+</div>
 
 
 ## 목차 📚
