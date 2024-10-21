@@ -55,6 +55,9 @@
 </h3>
 <tr>
     <img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63"/>
+    <img src="https://github.com/user-attachments/assets/35498c78-d8f1-42b1-b70e-9f1dc5a4bbc9"/>
+    <img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6"/>
+
 </tr>
 <h3>
     :full_moon_with_face: 자체평가
