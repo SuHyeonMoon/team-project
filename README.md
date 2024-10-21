@@ -45,7 +45,7 @@
     ● 이용후기
 </tr>
 <h3>
-![image](https://github.com/user-attachments/assets/fc8368bb-a1fc-444e-8a9e-6e5234ab9444)
+<img src="erd.png" width="200" height="400"/>
 </h3>
 
 
