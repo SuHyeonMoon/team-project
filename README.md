@@ -2,5 +2,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SuHyeonMoon=anuraghazra&show_icons=true&theme=transparent)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=110&section=footer" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuHyeonMoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="SuHyeonMoon")](https://github.com/anuraghazra/github-readme-stats)
 
