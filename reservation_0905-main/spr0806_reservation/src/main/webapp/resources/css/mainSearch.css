@@ -1,0 +1,221 @@
+/* 드롭다운 스타일 개선 */
+.sort-filters label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+.content {
+    display: flex;
+    justify-content: space-between; /* 필터와 결과를 양옆에 배치 */
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.sort-filters select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    color: #333;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.sort-filters select:hover {
+    background-color: #e8e8e8;
+    border-color: #bbb;
+}
+
+.sort-filters button {
+    padding: 8px 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10px;
+}
+
+.sort-filters button:hover {
+    background-color: #45a049;
+}
+
+/* 라디오 버튼 스타일 개선 */
+.filters input[type="radio"] {
+    margin-right: 8px;
+    accent-color: #4caf50; /* 라디오 버튼 색상을 친숙한 초록색으로 변경 */
+}
+
+.filters label {
+    font-size: 16px;
+    color: #333;
+}
+
+/* 키워드 버튼 스타일 개선 */
+.filters .keyword-buttons button {
+    padding: 10px 15px;
+    font-size: 14px;
+    border-radius: 20px;
+    border: none;
+    background-color: #ffeb3b;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.filters .keyword-buttons button:hover {
+    background-color: #fdd835;
+    transform: scale(1.05);
+}
+
+/* 슬라이더 스타일 개선 */
+.slider-wrapper {
+    position: relative;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#priceSlider {
+    margin-top: 20px;
+}
+
+#minPriceDisplay, #maxPriceDisplay {
+    font-size: 16px;
+    color: #333;
+}
+
+button#setPriceButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: #03a9f4;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+button#setPriceButton:hover {
+    background-color: #0288d1;
+}
+
+.results {
+    flex-grow: 1;
+    margin-left: 20px; /* 필터와 결과 사이의 간격 조정 */
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+/* 필터 섹션 */
+.filters {
+    width: 320px; /* 필터 박스 넓이 */
+    padding: 30px; /* 여유 있는 패딩 */
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100%; /* 필터 박스를 아래로 늘림 */
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* 필터 내 요소 간의 간격 설정 */
+}
+
+/* 키워드 버튼 그룹 */
+.keyword-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* 버튼 간의 간격 */
+}
+
+/* 정렬 섹션 */
+.sort-filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px; /* 정렬 옵션과 버튼 사이 간격 */
+}
+
+/* 라디오 버튼 그룹 */
+.filters div {
+    margin-bottom: 15px; /* 각 필터 객체 사이 간격 */
+}
+
+.filters label {
+    margin-right: 10px;
+}
+
+#sortOption {
+    width: 150px; /* 셀렉트 박스의 넓이 조정 */
+}
+
+/* 필터 버튼 */
+.filters button {
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: #333;
+}
+
+.filters button:hover {
+    background-color: #e0e0e0;
+}
+
+
+.filters h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.filters div {
+    margin-bottom: 15px;
+}
+
+/* 결과 섹션 스타일 */
+.result-item {
+    display: flex; /* 수평 배치를 위해 flexbox 사용 */
+    align-items: center; /* 세로 중앙 정렬 */
+    padding: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.result-item img {
+    width: 160px; /* 이미지의 너비 조정 */
+    height: 100px; /* 이미지의 높이 조정 */
+    object-fit: cover; /* 이미지 비율 유지 */
+    border-radius: 8px;
+    margin-right: 20px; /* 이미지와 텍스트 간의 간격 */
+}
+
+.result-item:hover {
+    background-color: #f5f5f5;
+    transform: scale(1.02);
+}
+
+/* 이미지 스타일 개선 */
+
+
+/* 텍스트 색상 및 정렬 */
+.result-item .info h4 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.result-item .info p {
+    font-size: 14px;
+    color: #777;
+}
