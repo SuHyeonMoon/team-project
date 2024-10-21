@@ -22,7 +22,7 @@
 </tr>
     
 <h2>
-    :full_moon_with_face: skil
+    :full_moon_with_face: 개발 환경
 </h2>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
