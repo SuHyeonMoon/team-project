@@ -21,9 +21,9 @@
     ● 기대효과: 예약서비스 이용의 편의성 향상 
 </tr>
     
-<h2>
+<h3>
     :full_moon_with_face: 개발 환경
-</h2>
+</h3>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
