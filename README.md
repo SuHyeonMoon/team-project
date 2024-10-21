@@ -53,6 +53,9 @@
 <h3>
     :full_moon_with_face: 기능구현
 </h3>
+<tr>
+    <img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63"/>
+</tr>
 <h3>
     :full_moon_with_face: 자체평가
 </h3>
