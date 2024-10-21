@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <h3>
-     :full_moon_with_face: 역할
+     :full_moon_with_face: 담당 역할
 </h3>
 <tr>
     ● 판매자가 제공하는 서비스 항목 관리<br>
