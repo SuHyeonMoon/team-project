@@ -45,13 +45,16 @@
     ● 이용후기
 </tr>
 <h3>
+    :full_moon_with_face: erd
+</h3>
+<tr>
 <img src="erd.png" width="200" height="400"/>
+</tr>
+<h3>
+    :full_moon_with_face: 기능구현
 </h3>
 <h3>
-    기능구현
-</h3>
-<h3>
-    자체평가
+    :full_moon_with_face: 자체평가
 </h3>
 
 
