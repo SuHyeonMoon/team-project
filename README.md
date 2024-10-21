@@ -48,7 +48,7 @@
     :full_moon_with_face: erd
 </h3>
 <tr>
-<img width="80%" src=https://github.com/user-attachments/assets/36e66a88-90b2-42d3-a691-711bd1e7e104">
+<img src="https://erd.png  width="200" height="400"/>
 </tr>
 <h3>
     :full_moon_with_face: 기능구현
