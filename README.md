@@ -59,9 +59,14 @@
     <img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63"/>
     <img src="https://github.com/user-attachments/assets/35498c78-d8f1-42b1-b70e-9f1dc5a4bbc9"/>
     <img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6"/>
+    -CRUD작업을 이용해 판매자의 서비스 관리,등록<br>
+    -코드의 효율성과 유연성을 위해 공개/비공개 처리<br>
+    -구매자가 이용완료를 했을 경우에만 후기 작성 가능
+    <br>
     <img  src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a">  
+    -후기가 작성된 리스트
     <img src="https://github.com/user-attachments/assets/d13f9bdf-d5ee-4fd9-afb1-494fcfc8efd7">
-
+    
 </tr>
 <h3>
     :full_moon_with_face: 자체평가
