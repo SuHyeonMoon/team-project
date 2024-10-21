@@ -4,10 +4,6 @@
 <div style="text-align: center; margin: 20px 0;">
     <a href="https://github.com/SuHyeonMoon/team-project/raw/master/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf" target="_blank" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📥 PDF 다운로드</a>
 </div>
-<div>
-[Download the presentation](https://github.com/SuHyeonMoon/team-project/blob/master/모두의예약_양재하_김하겸_오규원_문수현_최종.pdf")
-</div>
-
 
 ## 목차 📚
 1. [프로젝트 개요](#프로젝트-개요)
