@@ -1,5 +1,8 @@
 # 모두의 예약 플랫폼 📅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEDC9&height=170&section=header&text=RESERVATION&fontSize=40" />
+<div>
+    [Download the presentation](./presentation.pptx)
+</div>
 
 ## 목차 📚
 1. [프로젝트 개요](#프로젝트-개요)
