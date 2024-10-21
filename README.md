@@ -51,21 +51,27 @@
 ---
 
 ## 기능 구현 🔧
+<img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63" alt="기능 이미지 1" />
+<img src="https://github.com/user-attachments/assets/35498c78-d8f1-42b1-b70e-9f1dc5a4bbc9" alt="기능 이미지 2" />
+<img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6" alt="기능 이미지 3" />
+
 **주요 기능**:
 - CRUD 작업을 이용해 판매자의 서비스 관리, 등록
 - 코드의 효율성 및 유연성을 위해 공개/비공개 처리
 - 구매자가 이용 완료 후에만 후기 작성 가능
-<img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63" alt="기능 이미지 1" />
-<img src="https://github.com/user-attachments/assets/35498c78-d8f1-42b1-b70e-9f1dc5a4bbc9" alt="기능 이미지 2" />
-<img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6" alt="기능 이미지 3" />
-<br>
-<br>
-<img  src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a"/>
-<img src="https://github.com/user-attachments/assets/3333acb0-be95-4065-8ac2-83c533dbe55c">
 
+<img  src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a"/>
+<img src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a" alt="후기 리스트" />
+
+**주요 기능**
+-
 
 ---
 
 ## 자체평가 📝
-이번 프로젝트는 처음 맡은 개발 작업이었지만, 전체적인 애플리케이션 구조와 코드 흐름을 파악하는 데 많은 노력을 기울였습니다. 특히, CRUD 기능을 성공적으로 구현했으며, Ajax를 이용한 비동기 처리로 사용자 경험을 향상시키는 데 기여했습니다. 초반에 팀원들과의 소통이 원활하지 않아 프로젝트 진행 중 여러 번 의견차이가 발생했습니다. 또한, 팀원들이 각각 다른 방식으로 코드를 작성하다 보니, 프로젝트를 병합하는 과정에서 코드 충돌이 발생했습니다. 이는 코드 관리 방식의 문제에서 비롯된 것이었고, 코드 스타일을 통일하는 데에도 시간이 걸렸습니다. 프로젝트에서 댓글 기능을 구현할 때, 게시판 댓글과 이용후기 댓글의 요구 사항이 달랐음에도 불구하고 동일한 DB 구조로 접근하려다 보니 발생한 문제였습니다. 이를 해결하기 위해, 댓글 기능의 DB 스키마를 분리하여 각 요구 사항에 맞는 테이블 구조를 설계하였습니다. 이로 인해 데이터 무결성 유지가 수월 해졌고, 추가적인 기능 확장에도 유연하게 대응할 수 있었습니다. 프로젝트 병합 과정에서 발생한 코드 충돌 문제를 해결하기 위해 Git 브랜치 전략을 도입했습니다. 각 팀원이 별도의 브랜치에서 개발을 진행하고, Pull Request를 통해 코드 리뷰를 거친 후 병합하도록 하여 충돌을 최소화했습니다. 이를 통해 협업 과정이 더욱 효율적으로 이루어졌고, 코드 품질 또한 향상되었습니다. 이번 프로젝트는 전반적인 애플리케이션 개발 과정과 협업의 중요성을 다시 한번 깨닫게 해준 중요한 경험이 되었습니다.
+이번 프로젝트는 처음 맡은 개발 작업이었지만, 전체적인 애플리케이션 구조와 코드 흐름을 파악하는 데 많은 노력을 기울였습니다.
 
+- **성공적인 CRUD 기능 구현** 및 Ajax를 이용한 비동기 처리로 사용자 경험 향상
+- 팀원들과의 소통이 원활하지 않았지만 Git 브랜치 전략을 도입하여 협업 개선
+- DB 스키마를 분리하여 각 요구 사항에 맞는 테이블 구조 설계 및 데이터 무결성 유지
+- 코드 스타일 통일 및 협업 프로세스 개선으로 프로젝트 진행에 기여
