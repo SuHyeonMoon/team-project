@@ -8,12 +8,10 @@
 ## 목차 📚
 1. [프로젝트 개요](#프로젝트-개요)
 2. [개발 환경](#개발-환경)
-3. [팀 구성 및 역할](#팀-구성-및-역할)
+3. [담당 역할](#담당-역할)
 4. [기능 구현](#기능-구현)
 5. [ERD](#erd)
 6. [자체평가](#자체평가)
-7. ㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹ
-8. 88888
 
 ---
 
@@ -36,7 +34,7 @@
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
@@ -66,7 +64,6 @@
 <img src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a" alt="후기 리스트" />
 <img  src="https://github.com/user-attachments/assets/f6172c7e-a3d3-476f-a6c7-3ed28aba84c5">
 
-
 ---
 
 ## 자체평가 📝
@@ -77,4 +74,3 @@
 이 경험을 통해 데이터 무결성 유지와 코드 품질 향상의 중요성을 다시 한번 깨달았습니다.
 
 ---
-
