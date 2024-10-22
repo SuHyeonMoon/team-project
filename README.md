@@ -56,9 +56,9 @@
 - CRUD 작업을 이용해 판매자의 서비스 관리 및 등록
 - 코드의 효율성 및 유연성을 위해 공개/비공개 처리
 - 구매자가 이용 완료 후에만 후기 작성 가능
-<img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63" alt="기능 이미지 1" />
 <img src="https://github.com/user-attachments/assets/35498c78-d8f1-42b1-b70e-9f1dc5a4bbc9" alt="기능 이미지 2" />
 <img src="https://github.com/user-attachments/assets/345aeeaf-9580-4353-9c7a-b636e816b5a6" alt="기능 이미지 3" />
+<img src="https://github.com/user-attachments/assets/3e356fc7-6620-445f-bd59-7c7261469f63" alt="기능 이미지 1" />
 <br>
 <br>
 <img src="https://github.com/user-attachments/assets/849b3527-6a87-4940-9b71-c7c17fded69a" alt="후기 리스트" />
